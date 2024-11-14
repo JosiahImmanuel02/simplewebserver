@@ -85,7 +85,6 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 
 ## OUTPUT:
-![output](https://github.com/user-attachments/assets/1acd4b05-5c37-4b97-a153-0a7fc7dbf57a)
 
 
 ## RESULT:
