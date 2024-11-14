@@ -30,7 +30,7 @@ content='''
 <title> My Web Server</title>
 </head>
 <body>
-<h1>Top Five Revenue from Companies</h1>
+
 <table border=2>
 <tr>
 <th> Company Name </th>
